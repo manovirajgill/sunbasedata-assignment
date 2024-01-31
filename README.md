@@ -1,5 +1,5 @@
 SunBaseData-Assignment
-Welcome to the SunBaseData Assignment repository! This repository encompasses all the essential files associated with my assignment, including the ones I've actively contributed to. The primary tools utilized throughout this project are Eclipse and the Tomcat server.
+Welcome to the SunBaseData Assignment repository! This repository encompasses all the essential files associated with my assignment. The primary tools utilized throughout this project are Eclipse and the Tomcat server.
 
 Process
 Install Eclipse: Begin by installing the Eclipse integrated development environment (IDE).
